@@ -49,7 +49,7 @@ Para compilar o projeto, execute o comando:
 Após a construção do projeto, execute a aplicação com o comando:
 
 ```bash
-java -jar target/todolist-0.0.1-snapshot.jar
+java -jar target/userAPI-0.0.1-snapshot.jar
 ```
 
 ## Acessar o Swagger
